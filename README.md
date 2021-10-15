@@ -1,1 +1,1 @@
-# Lin-Reg
+This is a linear regression model which takes the number of appearances a striker has and the number of goals he has scored in these appearances as input and predicts the average number of goals a striker will score if he played a certain number of matches.
